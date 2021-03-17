@@ -3,7 +3,7 @@ Small Smart home project  controlling the light of room, temperature sensor, and
 1 -> ON LED
 2 -> OFF LED
 3 -> READ TEMP.
-s -> OPEN MOTOR
+s -> ON MOTOR
 e -> OFF MOTOR
 + -> PLUS SPEED OF MOTOR
 - -> SUBTRACT SPEED OF MOTOR
